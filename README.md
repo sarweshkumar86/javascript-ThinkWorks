@@ -1,2 +1,0 @@
-# javascript-ThinkWorks
-javascript-ThinkWorks
