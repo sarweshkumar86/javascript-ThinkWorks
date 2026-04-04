@@ -14,10 +14,11 @@ Other → Invalid Floor
 
 
 // Variable
-let floor = 3;
+let floor = 1;
 
 // Switch case
-switch (floor) {
+switch (floor) 
+{
   case 1:
     console.log("Reception");
     break;
@@ -37,3 +38,14 @@ switch (floor) {
   default:
     console.log("Invalid Floor");
 }
+
+/*
+
+using swtch break statement in javascript diapaly 
+1.addition 
+2.subtraction
+3.mulipication
+4.division
+
+
+*/

@@ -1,7 +1,7 @@
 // Write a JavaScript program to compare two integers and find the greater number.
 
-let a = 20;
-let b = 20;
+let a = 40;
+let b = 40;
 
 if (a > b)
      {
