@@ -1,4 +1,17 @@
 Function Introduction (Class Script)
+In JavaScript, a function is a reusable block of code designed to perform a specific task. 
+It is a fundamental building block that allows you to write code once and execute it multiple times .
+
+Key Concepts
+Definition & Invocation: You define a function to name it and specify what it does, but the code only runs when it is called (invoked).
+
+Parameters & Arguments: Functions use parameters as placeholders for values they expect to receive. When you call the function, the actual values you pass are called arguments.
+
+Return Values: Use the return statement to send a value back to the code that called the function. If no value is returned, the function defaults to returning undefined.
+
+
+
+
 
 “Suppose you want to perform the same task again and again…
 like adding two numbers.”
